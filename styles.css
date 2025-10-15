@@ -1,0 +1,27 @@
+html {
+  scroll-behavior: smooth;
+}
+.back-top-link {
+    display: block;
+    margin-bottom: 50px;
+}
+del {
+    color: red;
+}
+body {
+  font-family: Vazirmatn;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table,
+th,
+td {
+  border: 1px solid grey;
+  padding: 10px;
+}
+p {
+    font-size: small;
+    line-height: 22px;
+}
